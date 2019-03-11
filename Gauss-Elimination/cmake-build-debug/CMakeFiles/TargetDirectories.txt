@@ -1,0 +1,3 @@
+/home/prathamesh/Desktop/C-Language/PCI-MP/Gauss-Elimination/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/prathamesh/Desktop/C-Language/PCI-MP/Gauss-Elimination/cmake-build-debug/CMakeFiles/Gauss_Elimination.dir
+/home/prathamesh/Desktop/C-Language/PCI-MP/Gauss-Elimination/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+/home/prathamesh/Desktop/C-Language/PCI-MP/Jacobi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/prathamesh/Desktop/C-Language/PCI-MP/Jacobi/cmake-build-debug/CMakeFiles/Jacobi.dir
+/home/prathamesh/Desktop/C-Language/PCI-MP/Jacobi/cmake-build-debug/CMakeFiles/edit_cache.dir

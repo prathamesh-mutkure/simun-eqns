@@ -1,0 +1,3 @@
+/home/prathamesh/Desktop/PCI-MP/Gauss-Seidal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/prathamesh/Desktop/PCI-MP/Gauss-Seidal/cmake-build-debug/CMakeFiles/Gauss_Seidal.dir
+/home/prathamesh/Desktop/PCI-MP/Gauss-Seidal/cmake-build-debug/CMakeFiles/edit_cache.dir
