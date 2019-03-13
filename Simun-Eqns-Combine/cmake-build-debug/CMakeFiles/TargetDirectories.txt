@@ -1,0 +1,3 @@
+/home/prathamesh/Desktop/C-Language/PCI-MP/Simun-Eqns-Combine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/prathamesh/Desktop/C-Language/PCI-MP/Simun-Eqns-Combine/cmake-build-debug/CMakeFiles/Simun_Eqns_Combine.dir
+/home/prathamesh/Desktop/C-Language/PCI-MP/Simun-Eqns-Combine/cmake-build-debug/CMakeFiles/edit_cache.dir

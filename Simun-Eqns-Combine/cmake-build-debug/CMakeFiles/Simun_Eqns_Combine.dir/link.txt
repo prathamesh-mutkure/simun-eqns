@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Simun_Eqns_Combine.dir/main.c.o  -o Simun_Eqns_Combine 
